@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "626924381050",
+    "firebase_url": "https://friendlink-f1e64-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "friendlink-f1e64",
+    "storage_bucket": "friendlink-f1e64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626924381050:android:90f35a5395b77622b5ecc3",
+        "android_client_info": {
+          "package_name": "com.example.friendlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysp1N_Q3eGe68YFTUytqj7XPZa0K7DWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
